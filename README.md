@@ -13,6 +13,8 @@ Only three commands are supported.
 
 backspace key works.
 
+TeraTerm is available from https://ttssh2.osdn.jp/index.html.en
+
 Fig.1 teraterm screen shot
 ![Fig.1 teraterm](teraterm.png)
 
